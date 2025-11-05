@@ -173,15 +173,17 @@ Used **GridSearchCV** and **RandomizedSearchCV**, optimizing primarily for **F1-
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+Licensed under the **MIT License** - free for educational and personal use.  
+You may modify, reuse, and distribute this project **with attribution**.
+see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Sisuru Disnaka Samarathunga**  
-📧 sisurudisnaka001.com  
-🌐 [GitHub Profile](https://github.com/SisuruDisnaka)
+**Sisuru Disnaka** - 🌐 [GitHub Profile](https://github.com/SisuruDisnaka) 
+<br>📧 <a href="mailto:sisurudisnaka001@gmail.com">Contact me</a>
+
 
 ---
 
